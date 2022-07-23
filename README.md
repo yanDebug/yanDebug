@@ -35,6 +35,7 @@
 最喜欢的哲学家是[伊曼努尔·康德](https://baike.baidu.com/item/%E4%BC%8A%E6%9B%BC%E5%8A%AA%E5%B0%94%C2%B7%E5%BA%B7%E5%BE%B7/2631177)。为什么是康德，原因肯定不止他非常自律那么简单，还因为他调和了[大陆理性主义](https://baike.baidu.com/item/%E5%A4%A7%E9%99%86%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89/8751549)和[英国经验派](https://baike.baidu.com/item/%E8%8B%B1%E5%9B%BD%E7%BB%8F%E9%AA%8C%E6%B4%BE)，是古典哲学创始人，为现代哲学的发展奠定了基础。
 
 此处留下康德的墓志铭:
+
 `德语原文:`
 >Zwei Dinge erfüllen das Gemüt mit immer neuer und zunehmender Bewunderung und Ehrfurcht, je öfter und anhaltender sich das Nachdenken damit beschäftigt: Der bestirnte Himmel über mir, und das moralische Gesetz in mir.
 
